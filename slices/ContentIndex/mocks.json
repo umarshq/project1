@@ -1,0 +1,58 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "touch",
+				"type": "Text"
+			},
+			"content_type": {
+				"__TYPE__": "FieldContent",
+				"value": "Projects",
+				"type": "Select"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Exercitation aute non Lorem sunt laboris. Labore commodo exercitation veniam elit aute adipisicing laboris dolor proident dolore officia nulla est laboris."
+						}
+					}
+				]
+			},
+			"view_more_text": {
+				"__TYPE__": "FieldContent",
+				"value": "spin",
+				"type": "Text"
+			},
+			"fallback_item_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+					"width": 5848,
+					"height": 3899
+				},
+				"url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+				"width": 5848,
+				"height": 3899,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			}
+		},
+		"items": []
+	}
+]

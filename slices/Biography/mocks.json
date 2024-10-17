@@ -1,0 +1,58 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "bicycle",
+				"type": "Text"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ipsum esse duis magna ad aliquip reprehenderit nisi tempor elit ea duis laboris sunt esse. Sint nisi cillum exercitation id sunt ipsum veniam id nostrud amet ea."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "into",
+				"type": "Text"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com"
+				}
+			},
+			"avatar": {
+				"__TYPE__": "ImageContent",
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1586952518485-11b180e92764",
+					"width": 4172,
+					"height": 4000
+				},
+				"url": "https://images.unsplash.com/photo-1586952518485-11b180e92764",
+				"width": 4172,
+				"height": 4000,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"thumbnails": {}
+			}
+		},
+		"items": []
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ullamco dolor anim magna in nulla non eiusmod ipsum aliquip tempor dolore tempor. Mollit sint anim culpa reprehenderit aute."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
